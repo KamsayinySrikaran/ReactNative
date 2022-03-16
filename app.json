@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Simple Login Template",
+    "slug": "simple-login-template",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/IC.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contafin",
+      "backgroundColor": "#213571"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/IC.png",
+        "backgroundColor": "#213571"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
